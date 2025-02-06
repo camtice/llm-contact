@@ -1,0 +1,19 @@
+# title for results
+experiment_name: o3_med_player_1.5_flash_overseer
+
+# models and their configurations
+models:
+  instance_1:
+    name: openai/o3-mini
+    params:
+      reasoning_effort: medium
+  instance_2:
+    name: openai/o3-mini
+    params:
+      reasoning_effort: medium
+  overseer:
+    name: google/gemini-1.5-flash
+    params: 
+      reasoning_effort: 
+
+num_samples: 5

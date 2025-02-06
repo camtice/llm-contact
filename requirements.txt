@@ -1,0 +1,5 @@
+nltk==3.8.1
+PyYAML==6.0.1
+types-PyYAML==6.0.12.12
+anthropic==0.18.1
+google-generativeai==0.3.2 

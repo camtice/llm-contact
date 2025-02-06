@@ -1,0 +1,225 @@
+Running experiments:   0%|          | 0/20 [00:00<?, ?sample/s]
+Game rounds (word: bottle):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: bottle):  10%|█         | 1/10 [00:01<00:13,  1.45s/round][A
+Game rounds (word: bottle):  20%|██        | 2/10 [00:03<00:14,  1.76s/round][A
+Game rounds (word: bottle) - CONTACT made!:  20%|██        | 2/10 [00:05<00:14,  1.76s/round][A
+                                                                                             [ARunning experiments:   5%|▌         | 1/20 [00:10<03:23, 10.69s/sample]Running experiments:   5%|▌         | 1/20 [00:10<03:23, 10.69s/sample, success=0, word=bottle, round=1]
+Game rounds (word: idea):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: idea):  10%|█         | 1/10 [00:01<00:10,  1.13s/round][A
+Game rounds (word: idea):  20%|██        | 2/10 [00:03<00:15,  1.92s/round][A
+Game rounds (word: idea):  30%|███       | 3/10 [00:06<00:17,  2.45s/round][A
+Game rounds (word: idea):  40%|████      | 4/10 [00:08<00:14,  2.36s/round][A
+Game rounds (word: idea):  50%|█████     | 5/10 [00:11<00:11,  2.28s/round][A
+Game rounds (word: idea):  60%|██████    | 6/10 [00:13<00:08,  2.18s/round][A
+Game rounds (word: idea) - CONTACT made!:  60%|██████    | 6/10 [00:15<00:08,  2.18s/round][A
+                                                                                           [ARunning experiments:  10%|█         | 2/20 [00:30<04:48, 16.01s/sample, success=0, word=bottle, round=1]Running experiments:  10%|█         | 2/20 [00:30<04:48, 16.01s/sample, success=0, word=idea, round=2]  
+Game rounds (word: lack):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: lack):  10%|█         | 1/10 [00:01<00:10,  1.19s/round][A
+Game rounds (word: lack):  20%|██        | 2/10 [00:03<00:14,  1.79s/round][A
+Game rounds (word: lack):  30%|███       | 3/10 [00:05<00:13,  2.00s/round][A
+Game rounds (word: lack):  40%|████      | 4/10 [00:08<00:13,  2.30s/round][A
+Game rounds (word: lack):  50%|█████     | 5/10 [00:12<00:13,  2.78s/round][A
+Game rounds (word: lack):  60%|██████    | 6/10 [00:14<00:10,  2.59s/round][A
+Game rounds (word: lack):  70%|███████   | 7/10 [00:16<00:07,  2.60s/round][A
+Game rounds (word: lack):  80%|████████  | 8/10 [00:19<00:05,  2.71s/round][A
+Game rounds (word: lack) - CONTACT made!:  80%|████████  | 8/10 [00:21<00:05,  2.71s/round][A
+                                                                                           [ARunning experiments:  15%|█▌        | 3/20 [00:57<05:55, 20.90s/sample, success=0, word=idea, round=2]Running experiments:  15%|█▌        | 3/20 [00:57<05:55, 20.90s/sample, success=0, word=lack, round=3]
+Game rounds (word: evidence):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: evidence):  10%|█         | 1/10 [00:01<00:09,  1.05s/round][A
+Game rounds (word: evidence):  20%|██        | 2/10 [00:02<00:12,  1.58s/round][A
+Game rounds (word: evidence):  30%|███       | 3/10 [00:06<00:18,  2.59s/round][A
+Game rounds (word: evidence):  40%|████      | 4/10 [00:10<00:17,  2.90s/round][A
+Game rounds (word: evidence):  50%|█████     | 5/10 [00:12<00:13,  2.62s/round][A
+Game rounds (word: evidence):  60%|██████    | 6/10 [00:14<00:10,  2.57s/round][A
+Game rounds (word: evidence):  70%|███████   | 7/10 [00:17<00:07,  2.53s/round][A
+Game rounds (word: evidence):  80%|████████  | 8/10 [00:22<00:06,  3.31s/round][A
+Game rounds (word: evidence) - CONTACT made!:  80%|████████  | 8/10 [00:23<00:06,  3.31s/round][A
+                                                                                               [ARunning experiments:  20%|██        | 4/20 [01:25<06:18, 23.68s/sample, success=0, word=lack, round=3]Running experiments:  20%|██        | 4/20 [01:25<06:18, 23.68s/sample, success=0, word=evidence, round=4]
+Game rounds (word: phase):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: phase):  10%|█         | 1/10 [00:01<00:10,  1.15s/round][A
+Game rounds (word: phase):  20%|██        | 2/10 [00:03<00:14,  1.78s/round][A
+Game rounds (word: phase):  30%|███       | 3/10 [00:05<00:14,  2.13s/round][A
+Game rounds (word: phase):  40%|████      | 4/10 [00:08<00:14,  2.37s/round][A
+Game rounds (word: phase):  50%|█████     | 5/10 [00:10<00:11,  2.34s/round][A
+Game rounds (word: phase):  60%|██████    | 6/10 [00:13<00:10,  2.56s/round][A
+Game rounds (word: phase) - CONTACT made!:  60%|██████    | 6/10 [00:15<00:10,  2.56s/round][A
+                                                                                            [ARunning experiments:  25%|██▌       | 5/20 [01:49<06:01, 24.09s/sample, success=0, word=evidence, round=4]Running experiments:  25%|██▌       | 5/20 [01:49<06:01, 24.09s/sample, success=0, word=phase, round=5]   
+Game rounds (word: light):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: light):  10%|█         | 1/10 [00:01<00:10,  1.12s/round][A
+Game rounds (word: light):  20%|██        | 2/10 [00:03<00:15,  1.89s/round][A
+Game rounds (word: light):  30%|███       | 3/10 [00:07<00:18,  2.67s/round][A
+Game rounds (word: light):  40%|████      | 4/10 [00:11<00:19,  3.23s/round][A
+Game rounds (word: light):  50%|█████     | 5/10 [00:14<00:16,  3.26s/round][A
+Game rounds (word: light):  60%|██████    | 6/10 [00:16<00:11,  2.93s/round][A
+Game rounds (word: light):  70%|███████   | 7/10 [00:19<00:08,  2.81s/round][A
+Game rounds (word: light) - CONTACT made!:  70%|███████   | 7/10 [00:21<00:08,  2.81s/round][A
+                                                                                            [ARunning experiments:  30%|███       | 6/20 [02:16<05:51, 25.07s/sample, success=0, word=phase, round=5]Running experiments:  30%|███       | 6/20 [02:16<05:51, 25.07s/sample, success=0, word=light, round=6]
+Game rounds (word: two):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: two):  10%|█         | 1/10 [00:01<00:10,  1.21s/round][A
+Game rounds (word: two):  20%|██        | 2/10 [00:03<00:13,  1.73s/round][A
+Game rounds (word: two):  30%|███       | 3/10 [00:05<00:13,  1.92s/round][A
+Game rounds (word: two):  40%|████      | 4/10 [00:07<00:12,  2.14s/round][A
+Game rounds (word: two):  50%|█████     | 5/10 [00:09<00:10,  2.10s/round][A
+Game rounds (word: two):  60%|██████    | 6/10 [00:12<00:08,  2.19s/round][A
+Game rounds (word: two) - CONTACT made!:  60%|██████    | 6/10 [00:21<00:08,  2.19s/round][A
+                                                                                          [ARunning experiments:  35%|███▌      | 7/20 [02:42<05:28, 25.24s/sample, success=0, word=light, round=6]Running experiments:  35%|███▌      | 7/20 [02:42<05:28, 25.24s/sample, success=0, word=two, round=7]  
+Game rounds (word: part):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: part):  10%|█         | 1/10 [00:00<00:08,  1.00round/s][A
+Game rounds (word: part):  20%|██        | 2/10 [00:07<00:33,  4.14s/round][A
+Game rounds (word: part):  30%|███       | 3/10 [00:10<00:24,  3.52s/round][A
+Game rounds (word: part):  40%|████      | 4/10 [00:13<00:19,  3.31s/round][A
+Game rounds (word: part) - CONTACT made!:  40%|████      | 4/10 [00:14<00:19,  3.31s/round][A
+                                                                                           [ARunning experiments:  40%|████      | 8/20 [03:03<04:45, 23.83s/sample, success=0, word=two, round=7]Running experiments:  40%|████      | 8/20 [03:03<04:45, 23.83s/sample, success=0, word=part, round=8]
+Game rounds (word: surface):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: surface):  10%|█         | 1/10 [00:01<00:14,  1.56s/round][A
+Game rounds (word: surface):  20%|██        | 2/10 [00:06<00:29,  3.70s/round][A
+Game rounds (word: surface):  30%|███       | 3/10 [00:09<00:21,  3.05s/round][A
+Game rounds (word: surface):  40%|████      | 4/10 [00:11<00:16,  2.80s/round][A
+Game rounds (word: surface) - CONTACT made!:  40%|████      | 4/10 [00:13<00:16,  2.80s/round][A
+                                                                                              [ARunning experiments:  45%|████▌     | 9/20 [03:25<04:16, 23.32s/sample, success=0, word=part, round=8]Running experiments:  45%|████▌     | 9/20 [03:25<04:16, 23.32s/sample, success=0, word=surface, round=9]
+Game rounds (word: experiment):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: experiment):  10%|█         | 1/10 [00:01<00:09,  1.09s/round][A
+Game rounds (word: experiment):  20%|██        | 2/10 [00:03<00:13,  1.64s/round][A
+Game rounds (word: experiment):  30%|███       | 3/10 [00:06<00:17,  2.46s/round][A
+Game rounds (word: experiment) - CONTACT made!:  30%|███       | 3/10 [00:08<00:17,  2.46s/round][A
+                                                                                                 [ARunning experiments:  50%|█████     | 10/20 [03:38<03:21, 20.14s/sample, success=0, word=surface, round=9]Running experiments:  50%|█████     | 10/20 [03:38<03:21, 20.14s/sample, success=0, word=experiment, round=10]
+Game rounds (word: stream):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: stream):  10%|█         | 1/10 [00:01<00:10,  1.19s/round][A
+Game rounds (word: stream):  20%|██        | 2/10 [00:04<00:18,  2.32s/round][A
+Game rounds (word: stream):  30%|███       | 3/10 [00:07<00:17,  2.53s/round][A
+Game rounds (word: stream):  40%|████      | 4/10 [00:10<00:17,  2.90s/round][A
+Game rounds (word: stream):  50%|█████     | 5/10 [00:19<00:24,  4.92s/round][A
+Game rounds (word: stream) - CONTACT made!:  50%|█████     | 5/10 [00:21<00:24,  4.92s/round][A
+                                                                                             [ARunning experiments:  55%|█████▌    | 11/20 [04:05<03:19, 22.22s/sample, success=0, word=experiment, round=10]Running experiments:  55%|█████▌    | 11/20 [04:05<03:19, 22.22s/sample, success=0, word=stream, round=11]    
+Game rounds (word: conclusion):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: conclusion):  10%|█         | 1/10 [00:01<00:09,  1.04s/round][A
+Game rounds (word: conclusion):  20%|██        | 2/10 [00:03<00:17,  2.15s/round][A
+Game rounds (word: conclusion):  30%|███       | 3/10 [00:06<00:16,  2.40s/round][A
+Game rounds (word: conclusion):  40%|████      | 4/10 [00:09<00:15,  2.55s/round][A
+Game rounds (word: conclusion):  50%|█████     | 5/10 [00:12<00:14,  2.88s/round][A
+Game rounds (word: conclusion):  60%|██████    | 6/10 [00:15<00:10,  2.63s/round][A
+Game rounds (word: conclusion) - CONTACT made!:  60%|██████    | 6/10 [00:17<00:10,  2.63s/round][A
+                                                                                                 [ARunning experiments:  60%|██████    | 12/20 [04:28<03:00, 22.55s/sample, success=0, word=stream, round=11]Running experiments:  60%|██████    | 12/20 [04:28<03:00, 22.55s/sample, success=0, word=conclusion, round=12]
+Game rounds (word: possibility):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: possibility):  10%|█         | 1/10 [00:00<00:08,  1.10round/s][A
+Game rounds (word: possibility):  20%|██        | 2/10 [00:03<00:17,  2.18s/round][A
+Game rounds (word: possibility):  30%|███       | 3/10 [00:06<00:15,  2.21s/round][A
+Game rounds (word: possibility):  40%|████      | 4/10 [00:08<00:13,  2.29s/round][A
+Game rounds (word: possibility):  50%|█████     | 5/10 [00:10<00:11,  2.30s/round][A
+Game rounds (word: possibility) - CONTACT made!:  50%|█████     | 5/10 [00:13<00:11,  2.30s/round][A
+                                                                                                  [ARunning experiments:  65%|██████▌   | 13/20 [04:47<02:29, 21.29s/sample, success=0, word=conclusion, round=12]Running experiments:  65%|██████▌   | 13/20 [04:47<02:29, 21.29s/sample, success=0, word=possibility, round=13]
+Game rounds (word: method):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: method):  10%|█         | 1/10 [00:01<00:16,  1.82s/round][A
+Game rounds (word: method):  20%|██        | 2/10 [00:04<00:18,  2.33s/round][A
+Game rounds (word: method):  30%|███       | 3/10 [00:08<00:21,  3.08s/round][A
+Game rounds (word: method):  40%|████      | 4/10 [00:15<00:27,  4.53s/round][A
+Game rounds (word: method) - CONTACT made!:  40%|████      | 4/10 [00:17<00:27,  4.53s/round][A
+                                                                                             [ARunning experiments:  70%|███████   | 14/20 [05:09<02:09, 21.63s/sample, success=0, word=possibility, round=13]Running experiments:  70%|███████   | 14/20 [05:09<02:09, 21.63s/sample, success=1, word=method, round=14]     
+Game rounds (word: labor):   0%|          | 0/10 [00:00<?, ?round/s][A
+Game rounds (word: labor):  10%|█         | 1/10 [00:00<00:07,  1.21round/s][A
+                                                                            [ARunning experiments:  70%|███████   | 14/20 [05:14<02:14, 22.44s/sample, success=1, word=method, round=14]
+Traceback (most recent call last):
+  File "/Users/camerontice/Desktop/Contact/main.py", line 625, in <module>
+    main()
+    ~~~~^^
+  File "/Users/camerontice/Desktop/Contact/main.py", line 568, in main
+    results: List[Dict[str, Any]] = simulate_contact_game(model_config=model_config, num_samples=num_samples)
+                                    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/camerontice/Desktop/Contact/main.py", line 474, in simulate_contact_game
+    sample_result: Dict[str, Any] = run_game_for_sample(
+                                    ~~~~~~~~~~~~~~~~~~~^
+        sample_id=sample_idx,
+        ^^^^^^^^^^^^^^^^^^^^^
+        secret_word=secret_word,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+        model_config=model_config
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/camerontice/Desktop/Contact/main.py", line 357, in run_game_for_sample
+    response_instance_1 = generate_response(
+        model=state_instance_1["model"],
+        messages=state_instance_1["messages"],
+        model_params=state_instance_1["model_params"]
+    )
+  File "/Users/camerontice/Desktop/Contact/main.py", line 159, in generate_response
+    response = client.chat.completions.create(**completion_params)
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/openai/resources/chat/completions.py", line 863, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/chat/completions",
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<40 lines>...
+        stream_cls=Stream[ChatCompletionChunk],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+        request,
+        stream=stream or self._should_stream_response_body(request=request),
+        **kwargs,
+    )
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+        pool_request.request
+    )
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpcore/_sync/connection.py", line 103, in handle_request
+    return self._connection.handle_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 136, in handle_request
+    raise exc
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpcore/_sync/http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+        self.READ_NUM_BYTES, timeout=timeout
+    )
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/httpcore/_backends/sync.py", line 128, in read
+    return self._sock.recv(max_bytes)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/ssl.py", line 1285, in recv
+    return self.read(buflen)
+           ~~~~~~~~~^^^^^^^^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/ssl.py", line 1140, in read
+    return self._sslobj.read(len)
+           ~~~~~~~~~~~~~~~~~^^^^^
+KeyboardInterrupt

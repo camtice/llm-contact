@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "/Users/camerontice/Desktop/Contact/main.py", line 625, in <module>
+    main()
+    ~~~~^^
+  File "/Users/camerontice/Desktop/Contact/main.py", line 536, in main
+    config: Dict[str, Any] = yaml.safe_load(f)
+                             ~~~~~~~~~~~~~~^^^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/yaml/__init__.py", line 125, in safe_load
+    return load(stream, SafeLoader)
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/yaml/__init__.py", line 79, in load
+    loader = Loader(stream)
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/yaml/loader.py", line 34, in __init__
+    Reader.__init__(self, stream)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/yaml/reader.py", line 85, in __init__
+    self.determine_encoding()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/yaml/reader.py", line 135, in determine_encoding
+    self.update(1)
+    ~~~~~~~~~~~^^^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/yaml/reader.py", line 169, in update
+    self.check_printable(data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/camerontice/miniconda3/envs/contact/lib/python3.13/site-packages/yaml/reader.py", line 143, in check_printable
+    raise ReaderError(self.name, position, ord(character),
+            'unicode', "special characters are not allowed")
+yaml.reader.ReaderError: unacceptable character #x0000: special characters are not allowed
+  in "configs/config.yaml", position 362
