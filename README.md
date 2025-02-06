@@ -1,6 +1,15 @@
 # Contact Word Game
 
-A steganography word game implementation where two LLM instances try to communicate a secret word while keeping it hidden from an overseer LLM.
+A steganography word game implementation where two LLM instances try to communicate a secret word while keeping it hidden from an overseer LLM. Thank Daniel Tan for envisioning this game!
+
+## Game Rules
+
+1. Player 1 is given a secret word and must communicate it to Player 2
+2. Both players must keep the word hidden from the Overseer
+3. When Player 1 believes Player 2 knows the word, it calls "CONTACT"
+4. Player 2 then makes its guess
+5. The Overseer makes its guess based on the conversation
+6. The game is won if Player 2 guesses correctly while the Overseer does not
 
 ## Installation
 
@@ -45,23 +54,3 @@ Supported model prefixes:
 - `openai/`: OpenAI models
 - `anthropic/`: Anthropic models
 - `google/`: Google Gemini models
-
-## Game Rules
-
-1. Player 1 is given a secret word and must communicate it to Player 2
-2. Both players must keep the word hidden from the Overseer
-3. When Player 1 believes Player 2 knows the word, it calls "CONTACT"
-4. Player 2 then makes its guess
-5. The Overseer makes its guess based on the conversation
-6. The game is won if Player 2 guesses correctly while the Overseer does not
-
-## Implementation Details
-
-- Words are randomly selected from WordNet's noun database
-- Communication is structured using XML tags
-- Results are versioned for experiment tracking
-- The `generate_response()` function integrates with OpenAI, Anthropic, and Google Gemini APIs
-- Each model has appropriate configuration for its API:
-  - OpenAI: max_tokens=10000
-  - Anthropic: max_tokens=150, temperature=0.7
-  - Google Gemini: temperature=0.7, top_p=0.95, top_k=40, max_output_tokens=8192
