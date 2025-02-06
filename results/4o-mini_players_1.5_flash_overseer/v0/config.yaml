@@ -3,11 +3,11 @@ experiment_name: 4o-mini_players_1.5_flash_overseer
 
 # models and their configurations
 models:
-  player_1:
+  instance_1:
     name: openai/gpt-4o-mini
     params:
       reasoning_effort:
-  player_2:
+  instance_2:
     name: openai/gpt-4o-mini
     params:
       reasoning_effort:

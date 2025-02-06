@@ -1,8 +1,0 @@
-experiment_name: contact_experiment
-instance_1_model: openai/gpt-4o-mini
-instance_2_model: openai/gpt-4o-mini
-overseer_model: google/gemini-1.5-flash-8b
-
-# models
-# openai/o3-mini
-num_samples: 1
